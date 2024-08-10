@@ -1,13 +1,10 @@
 
 
 
-https://github.com/Maliud/weather-app-flutter-main/assets/72108306/a7a35d18-8269-447f-9243-b382d12e3916
 
+# Weather App
 
-
-# Weather App--Flutter-Main
-
-The "Weather App flutter main" project utilizing the OpenWeatherMap API is a mobile application designed to provide users with up-to-date weather information. Users can easily access current weather conditions, forecasts, and related data for current location. This project leverages the OpenWeatherMap API to fetch real-time weather data for current day & forecast of 7 days ahead, making it a valuable tool for users seeking accurate weather information on the go.
+The "Weather App " project utilizing the OpenWeatherMap API is a mobile application designed to provide users with up-to-date weather information. Users can easily access current weather conditions, forecasts, and related data for current location. This project leverages the OpenWeatherMap API to fetch real-time weather data for current day & forecast of 7 days ahead, making it a valuable tool for users seeking accurate weather information on the go.
 
 
 ## Tech Stack
@@ -89,8 +86,8 @@ Color             | Hex                                                         
 ## Installation
 
 ```bash
-git clone "https://github.com/Maliud/weather-app-flutter-main.git"
-cd Weather-App-Flutter-main
+git clone "https://github.com/Elishakarki/weatherapp.git"
+cd weatherapp
 ```
 
 Open the project in your desired editor.
@@ -120,18 +117,14 @@ Build > Flutter > Build App Bundle
 Build > Flutter > Build iOS
 
 Build > Flutter > Build Web
-## License
-
-[GNU General Public License v3.0](https://github.com/Maliud/weather-app-flutter-main/blob/main/LICENCE)
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0/)
-
 
 ## Support
 
-For support, Email: m.aliud@outlook.com
+For support, Email: karkielisha222@gmail.com
+
+
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ali-ud-ali76/)
-
+Follow me in LinkedIn
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-karki-4279a8232/)
